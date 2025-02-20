@@ -28,6 +28,8 @@ After succesfully loading my data, I was able to get the total number of employe
 as well as the number of employee that worked in HQ and remote workers. I was also able to figure out the total number of employees that had worked with the company for the past twenty years
 with the use of DAX formula. I then created my chart which provided insight to my data.
 
+![image](https://github.com/user-attachments/assets/b2b6ed8c-8e6b-46da-95da-ee09cf93b02b)
+
 
 
 ### Result/findings
