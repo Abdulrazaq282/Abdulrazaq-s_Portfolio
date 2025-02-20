@@ -7,8 +7,6 @@
 - [Result/findings](#Result/findings)
 - [Reccomendations](#Reccomendations)
 - [Refrences](#Refrences)
- 
-
 
 ### Project overview
 This data analysis project aims to provide insight on the employees in the organization over a period of twenty years. By analyzing various aspect of employee data.
@@ -29,6 +27,9 @@ After thoroughly cleaning/transforming my data, the next thing i did was to load
 After succesfully loading my data, I was able to get the total number of employee with the use of DAX formula,I was able get the total number of employee that are active and have been terminated.
 as well as the number of employee that worked in HQ and remote workers. I was also able to figure out the total number of employees that had worked with the company for the past twenty years
 with the use of DAX formula. I then created my chart which provided insight to my data.
+
+
+
 ### Result/findings
 The analysis results are summarized as follow
 1. The department with the highest employee is the engineering department with auditing been the least
