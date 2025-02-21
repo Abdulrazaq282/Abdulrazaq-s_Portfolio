@@ -9,8 +9,9 @@
 - [Refrences](#Refrences)
 
 ### Project overview
+---
 This data analysis project aims to provide insight on the employees in the organization over a period of twenty years. By analyzing various aspect of employee data.
-I seek to identify trends, With data driven reccomendation, i gained deeper understanding of the employee analysis.
+I seek to identify trends With data driven reccomendation, i gained deeper understanding of the employee analysis.
 ### Data source
 Employee data; The primary data used for this analysis is the employee(people)data.csv containing detailed information about each employee of the organization.
 
